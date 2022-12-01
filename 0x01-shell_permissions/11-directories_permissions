@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod drwx r-x r-x *
+chmod -R a+rX *
