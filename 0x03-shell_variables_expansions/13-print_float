@@ -1,2 +1,2 @@
 #!/bin/bash
-echo expr=2 $NUM | bc
+echo $((expr=2 $NUM))
